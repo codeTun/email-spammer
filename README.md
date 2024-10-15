@@ -14,7 +14,7 @@ Spam Outlook
 
 # TOOL USAGE
 
-`$ git clone https://github.com/codeTun/spam-email`
+`$ git clone https://github.com/codeTun/email-spammer`
 
 `$ cd spam-email`
 
